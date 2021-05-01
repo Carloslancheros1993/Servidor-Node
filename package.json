@@ -1,0 +1,19 @@
+{
+  "name": "primer-servidor",
+  "version": "1.0.0",
+  "description": "primer servidor con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filesystem",
+    "download"
+  ],
+  "author": "Carlos Lancheros",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
